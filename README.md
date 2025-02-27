@@ -5,30 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Best ways to find actuarial jobs, including job boards, networking, resume tips, skill development, and interview preparation.">
     <title>Best Ways to Find Actuarial Jobs</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 20px;
-            max-width: 800px;
-            margin: auto;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        ul {
-            margin: 10px 0;
-            padding-left: 20px;
-        }
-        p {
-            margin: 10px 0;
-        }
-        .highlight {
-            font-weight: bold;
-            color: #007BFF;
-        }
-    </style>
+    
 </head>
 <body>
     <h1>Best Ways to Find Actuarial Jobs: A Comprehensive Guide</h1>
